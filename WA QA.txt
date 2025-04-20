@@ -1,0 +1,35 @@
+Ports 20 and 21: File Transfer Protocol (FTP)
+Port 22: Secure Shell (SSH)
+Port 25: Simple Mail Transfer Protocol (SMTP)
+Port 53: Domain Name System (DNS)
+Port 80: Hypertext Transfer Protocol (HTTP)
+Port 443: HTTPS services
+(RDP) is TCP port 3389.
+
+Global Catalog (GC) are 3268 for LDAP and 3269 for LDAPS.
+The GC is a partial replica of every naming context in an Active Directory domain tree
+that allows users and applications to find objects based on one or more attributes of the target object
+
+tree size
+site 24/7
+scm
+wsus
+nps
+admx
+fsmo
+6008 unexpected restart
+1024 planned restart
+
+Local-site level-Domain level-OU level
+
+https://www.geeksforgeeks.org/introduction-of-classful-ip-addressing/
+
+https://www.youtube.com/watch?v=lSup3DoTsUY
+
+
+MAC Address:	54:B8:0A:29:F8:CF
+IP Address:	183.82.0.80
+Subnet Mask:	255.255.248.0
+Default Gateway:	183.82.0.1
+Primary DNS Server:	8.8.8.8
+Secondary DNS Server:	
